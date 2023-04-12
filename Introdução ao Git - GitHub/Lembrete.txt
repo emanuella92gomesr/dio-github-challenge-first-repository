@@ -1,0 +1,7 @@
+Estudar: 
+
+-- JavaScript
+-- HTML
+-- CSS 
+-- Angular 
+-- APIs
