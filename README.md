@@ -1,10 +1,15 @@
 # DIO - My Angular Bootcamp Repository
 Digital Innovation One - Angular Bootcamp. 
 
-Atividades do Bootcamp/Bootcamp Activities: 
+Atividades do Bootcamp: 
 
-Primeiro desafio - Criando o primeiro repositório
+Primeiro desafio - Criando o primeiro repositório.
+
+JavaScript - aulas e desafios.
+
+
+Bootcamp Activities:
+
 First challenge: Git/GitHub - Creating the first repository.
 
-JavaScript - aulas e desafios
-Javascript - classes and challenges
+Javascript - classes and challenges.
